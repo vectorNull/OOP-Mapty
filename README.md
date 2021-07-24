@@ -1,6 +1,6 @@
 # OOP-Mapty
 
-## User Stories\
+## User Stories
 
 1. As a user, I want to **log my running workouts with location, distance, time, pace and steps/min**, so I can keep a log of all my running.
 2. As a user, I want to **log my running workouts with location, distance, time, spped and elevation gain**, so I can keep a log of all my cycling.
@@ -19,3 +19,6 @@
 - Workouts must persist in browser using local storage API
 - On reload, read saved data from local storage and display
 
+## Flowchart
+
+![maptyFlowChart](https://user-images.githubusercontent.com/50179896/126855894-f6691aa6-7c71-44aa-8508-08912297d6ab.png)
